@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+.chart-container {
+  /* width: 70%;
+  height: 400px; */
+  margin: 20px auto;
+}
+
+.data-table {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse;
+}
+
+.data-table th, .data-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.data-table th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.data-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}

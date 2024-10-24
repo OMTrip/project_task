@@ -1,0 +1,41 @@
+[
+    {
+      "VIN (1-10)": "5YJYGDEE1L",
+      "County": "King",
+      "City": "Seattle",
+      "State": "WA",
+      "Postal Code": 98122,
+      "Model Year": 2020,
+      "Make": "TESLA",
+      "Model": "MODEL Y",
+      "Electric Vehicle Type": "Battery Electric Vehicle (BEV)",
+      "Clean Alternative Fuel Vehicle (CAFV) Eligibility": "Clean Alternative Fuel Vehicle Eligible",
+      "Electric Range": 291,
+      "Base MSRP": 0,
+      "Legislative District": 37,
+      "DOL Vehicle ID": 125701579,
+      "Vehicle Location": "POINT (-122.30839 47.610365)",
+      "Electric Utility": "CITY OF SEATTLE - (WA)|CITY OF TACOMA - (WA)",
+      "2020 Census Tract": 53033007800
+    },
+    {
+      "VIN (1-10)": "7SAYGDEE9P",
+      "County": "Snohomish",
+      "City": "Bothell",
+      "State": "WA",
+      "Postal Code": 98021,
+      "Model Year": 2023,
+      "Make": "TESLA",
+      "Model": "MODEL Y",
+      "Electric Vehicle Type": "Battery Electric Vehicle (BEV)",
+      "Clean Alternative Fuel Vehicle (CAFV) Eligibility": "Eligibility unknown as battery range has not been researched",
+      "Electric Range": 0,
+      "Base MSRP": 0,
+      "Legislative District": 1,
+      "DOL Vehicle ID": 244285107,
+      "Vehicle Location": "POINT (-122.179458 47.802589)",
+      "Electric Utility": "PUGET SOUND ENERGY INC",
+      "2020 Census Tract": 53061051938
+    }
+  ]
+  
